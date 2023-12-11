@@ -8,7 +8,9 @@ The library is available on pypi.org and github.com to install with
 - `git` clone for those who wants to help or just are curious
 
 Install with pip：  
-  `pip install pymodbus`  
+  ```
+  pip install pymodbus
+  ```
 Install with github:  
   ```bash
   git clone git://github.com/<your account>/pymodbus.git
