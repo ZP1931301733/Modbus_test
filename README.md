@@ -14,9 +14,9 @@ Install with github:
   git clone git://github.com/<your account>/pymodbus.git
   cd pymodbus
   python3 -m venv .venv
-  source .venv/bin/activate```  
+  source .venv/bin/activate
+  ```
 # File Structure
-`.`  
 
     
 
