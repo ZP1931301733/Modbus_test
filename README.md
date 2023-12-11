@@ -15,22 +15,8 @@ Install with github：
 &ensp;`python3 -m venv .venv`  
 &ensp;`source .venv/bin/activate`  
 # File Structure
-`.
-├── LICENSE  
+`.`  
 
-├── README.md  
-
-├── scripts  
-
-│   ├── management_scripts  
-
-│   └── tools  
-
-└── src  
-
-    ├── ros_ht_msg  
-    
-    └── ros_modbus_msg`  
     
 
 
