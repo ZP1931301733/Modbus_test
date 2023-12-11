@@ -1,5 +1,5 @@
 # Modbus_test  Instructions
-A small modbus communication project between ROS and USR-M100.   
+A small modbus communication project in ROS.   
 Read data from USR-M100 and publish data in a loop as a node.  
 This project is based on the pymodbus library，which is written in python.  
 # Install pymodbus
@@ -15,6 +15,14 @@ Install with github：
 &ensp;`python3 -m venv .venv`  
 &ensp;`source .venv/bin/activate`  
 # File Structure
-
+.
+├── LICENSE
+├── README.md
+├── scripts
+│   ├── management_scripts
+│   └── tools
+└── src
+    ├── ros_ht_msg
+    └── ros_modbus_msg
 
 
