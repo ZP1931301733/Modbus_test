@@ -8,12 +8,13 @@ The library is available on pypi.org and github.com to install with
 - `git` clone for those who wants to help or just are curious
 
 Install with pip：  
-&ensp;`pip install pymodbus`  
+  `pip install pymodbus`  
 Install with github:  
-&ensp;```git clone git://github.com/<your account>/pymodbus.git                                                  
-&ensp;cd pymodbus                                                                                                
-&ensp;python3 -m venv .venv                                                                                      
-&ensp;source .venv/bin/activate```  
+  ```bash
+  git clone git://github.com/<your account>/pymodbus.git
+  cd pymodbus
+  python3 -m venv .venv
+  source .venv/bin/activate```  
 # File Structure
 `.`  
 
