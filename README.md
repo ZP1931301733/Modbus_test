@@ -1,4 +1,4 @@
-# Modbus_test Instructions
+# ros_modbus_test Instructions
 A small modbus communication project in ROS.   
 Read data from USR-M100 and publish data in a loop as a node.  
 This project is based on the pymodbus library，which is written in python.  
@@ -26,13 +26,12 @@ To get a specific release:
   ```
   .
   ├──doc
-  ├──ros_modbus
-      ├──msg
-      │   ├──pub.msg
-      ├──scripts
-      │   ├──test.py
-      ├──src
-      │   ├──Modbus_test
+  ├──msg
+  │   ├──pub.msg
+  ├──scripts
+  │   ├──test.py
+  ├──src
+  │   ├──Modbus_test
   ```
 Here the function of these files：
 - `doc` contains the specifications and test results.
