@@ -25,14 +25,17 @@ To get a specific release:
 # File Structure
   ```
   .
-  ├──msg
-  │   ├──pub.msg
-  ├──scripts
-  │   ├──test.py
-  ├──src
-  │   ├──Modbus_test
+  ├──doc
+  ├──ros_modbus
+      ├──msg
+      │   ├──pub.msg
+      ├──scripts
+      │   ├──test.py
+      ├──src
+      │   ├──Modbus_test
   ```
 Here the function of these files：
+- `doc` contains the specifications and test results.
 - `msg` contains the self-defined data types.
 - `scripts` contains the node program files.
 - `src` contains the engineering functional modules.
