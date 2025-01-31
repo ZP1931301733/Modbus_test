@@ -1,7 +1,11 @@
 # Ros_modbus_test Package Instructions
-A small modbus communication project package in ROS.   
-Read data from USR-M100 and publish data in a loop as a node.  
-This project package is based on the pymodbus library，which is written in python.  
+A small modbus communication test package in ROS.
+
+Read data from USR-M100 and publish data in a loop as a node.
+
+This package is based on the pymodbus library，which is written in python.
+
+[pymodbus](https://github.com/pymodbus-dev/pymodbus)
 # Install pymodbus
 The library is available on pypi.org and github.com to install with  
 - `pip` for those who just want to use the library  
